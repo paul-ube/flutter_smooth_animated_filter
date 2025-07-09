@@ -1,3 +1,3 @@
 # smooth_animated_filter
 
-Animated message filter inspired by AirBnB
+Animated message filter using Material 3 expressive's motion curves - inspired by AirBnB
